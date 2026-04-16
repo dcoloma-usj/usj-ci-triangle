@@ -9,7 +9,7 @@ var ISOSCELES = 'Isosceles triangle';
 var SCALENE = 'Scalene triangle';
 
 /*
- * Given the three sides of a triangle it calculates the type of the
+ * Given the three sides of a triangle calculates the type of the
  * triangle.
  */
 function getTriangleType(lengthA, lengthB, lengthC) { 
