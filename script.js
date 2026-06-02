@@ -2,6 +2,8 @@
  * Implements the problem of triangle calcuation
  */
 
+// comentario 2
+
 var INVALID_ARGUMENTS = 'The arguments were not valid';
 var NOT_A_TRIANGLE = 'Impossible to create a triangle with those sides';
 var EQUILATERAL = 'Equilateral triangle';
